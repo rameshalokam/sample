@@ -1,0 +1,7 @@
+*.log
+*.obj
+*.jpeg
+*.png
+*.php
+!index.php
+
